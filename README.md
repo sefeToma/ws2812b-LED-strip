@@ -1,6 +1,6 @@
 Control WS2812b LED strip with Arduino over serial port.
 
-You can change the colour (RGB - values) and controll the brightness 
+You can change the colour (RGB - values) and control the brightness 
 
 ## **How to wire the arduino and LED strip:**
 
